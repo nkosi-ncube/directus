@@ -35,6 +35,6 @@
 	"dependencies": {
 		"@directus/constants": "workspace:*",
 		"@directus/extensions-sdk": "workspace:*",
-		"inquirer": "9.2.4"
+		"inquirer": "10.0.0"
 	}
 }
